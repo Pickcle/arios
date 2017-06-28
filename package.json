@@ -4,7 +4,7 @@
   "description": "Test npm publish",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"running test script\" && exit 1"
+    "test": "echo \"running test script\""
   },
   "repository": {
     "type": "git",
